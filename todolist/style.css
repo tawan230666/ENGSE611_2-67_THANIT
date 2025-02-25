@@ -81,3 +81,25 @@ body {
     background-color: #ecf0f1;
   }
   
+  /*for me*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.t {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2980b9;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    text-align: center;
+}

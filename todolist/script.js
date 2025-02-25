@@ -61,3 +61,11 @@ form.addEventListener("submit", (event) => {
 });
 
 renderTodo();  // เรียก renderTodo เพื่อแสดงรายการที่มีอยู่ (ถ้ามี)
+
+
+// for me
+function TC() {
+    let i = document.getElementById("o");
+    i.style.color = "#3498db";
+    i.innerHTML = "C";
+}
